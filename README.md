@@ -14,6 +14,12 @@
 
 ###
 
+<p align="left">
+  🚀 I am currently exploring new opportunities in software development and am excited about the possibility of contributing to innovative projects. 
+  Feel free to reach out to me via <a href="mailto:shriganeshlokapure6@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/shriganeshlokapure/" target="_blank">LinkedIn</a>. I’m always open to networking and discussing potential collaborations!
+</p>
+
+
 <h2 align="left">I code with</h2>
 
 ###
