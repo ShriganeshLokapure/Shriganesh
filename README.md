@@ -114,3 +114,23 @@
 <h2 align="left">🚀 Career Aspirations</h2>
 
 <p align="left">I am passionate about applying my technical skills to solve real-world problems, particularly in full-stack development and machine learning. I am open to new opportunities and connections.</p>
+
+<h2 align="left">Connect with me</h2>
+
+<div align="left">
+  <a href="https://leetcode.com/u/ShriGanesh2409/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="leetcode logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.linkedin.com/in/shriganeshlokapure/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="mailto:shriganeshlokapure6@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+
