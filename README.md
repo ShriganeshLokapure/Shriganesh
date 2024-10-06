@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <p align="left">My name is Shriganesh Lokapure and I'm a Full Stack Developer and ML Enthusiast, from Buffalo, NY.</p>
